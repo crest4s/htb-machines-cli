@@ -26,8 +26,8 @@ npm install -g js-beautify
 ## Instalación
  
 ```bash
-git clone <url-del-repositorio>
-cd <carpeta-del-repositorio>
+git clone https://github.com/crest4s/htb-machines-cli.git
+cd htb-machines-cli
 chmod +x htbmachines.sh
 ./htbmachines.sh -u
 ```
@@ -137,3 +137,7 @@ Filtrar por certificación:
 ## Créditos
  
 Los datos provienen de [htbmachines.github.io](https://htbmachines.github.io/).
+
+## Licencia
+
+Distribuido bajo licencia MIT. Consulta [LICENSE](LICENSE).

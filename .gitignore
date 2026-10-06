@@ -1,0 +1,6 @@
+# Datos descargados por ./htbmachines.sh -u
+bundle.js
+bundle_temp.js
+
+# Sistema
+.DS_Store
